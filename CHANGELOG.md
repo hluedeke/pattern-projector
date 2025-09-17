@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Input line length and angle using textboxes
+- Português (Brasil) and 简体中文 translations
+
+### Fixed
+
+- Menus will not hide when inputting text
+- Able to drag ends of lines on touch devices
+
 ## [1.3.0] - 2025-06-25
 
 ### Added
